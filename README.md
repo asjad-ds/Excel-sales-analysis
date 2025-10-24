@@ -12,6 +12,9 @@ This project contains an Excel file with sales data analysis and a dashboard to 
 - Stock alerts with conditional formatting
 - Key Performance Indicators (KPIs)
 
+## Dataset
+- This project uses the dataset from Kaggle: [Sales Dataset](https://www.kaggle.com/datasets/asjadd/personal-electronics-sales-data)
+
 ## How to Use
 Open the Excel file to explore interactive charts and data analysis.
 
